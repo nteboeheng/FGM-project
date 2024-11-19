@@ -1,0 +1,4 @@
+10655.3           #H0 in nT. From 20 June 2014
+-1527.2           #D0 in minutes
+-23308.5          #Z0 in nT
+
